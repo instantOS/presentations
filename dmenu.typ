@@ -46,7 +46,7 @@
 == X11
 
 Has Problems
-- On its way out #footnote[wether you like it or not]
+- On its way out #footnote[whether you like it or not]
 - Many people unable to use it
 - Legacy jank
 
@@ -102,6 +102,6 @@ Terminal emulators are a solved problem
 - Runs within a GUI
 
 #idea[
-Does not reinvent the wheel: Heavy lifting being done by fzf and kitty
+Does not reinvent the wheel: Heavy lifting is being done by fzf and kitty
 ]
 
