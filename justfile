@@ -4,3 +4,5 @@ default:
 dmenu:
     ./compile.sh dmenu
 
+gamesaves:
+    ./compile.sh gamesaves
