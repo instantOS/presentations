@@ -36,10 +36,10 @@
 - Steam can lose saves
 
 #focus-slide[
-I have stuff to do, I will not touch some games for a long time
- #pause
-#idea[I want my saves to be there when I come back]
+  I have stuff to do, I will not touch some games for a long time.
+  #idea[I want my saves to be there when I come back]
 ]
+
 
 
 
